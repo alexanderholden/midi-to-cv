@@ -16,3 +16,8 @@ Current status:
 Rendering:
 
 <img width="895" height="771" alt="image" src="https://github.com/user-attachments/assets/33dac1d6-ee4b-4827-8793-183fe08810be" />
+
+Schematic:
+
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/f770e7d4-2494-4916-92e4-6ae096426ba3" />
+

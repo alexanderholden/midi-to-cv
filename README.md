@@ -21,3 +21,10 @@ Schematic:
 
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/f770e7d4-2494-4916-92e4-6ae096426ba3" />
 
+
+Sources:
+
+- MCP4725 breakout board schematic: https://learn.adafruit.com/mcp4725-12-bit-dac-tutorial/download
+- QtPy MIDI to CV Skull: https://learn.adafruit.com/circuitpython-midi-to-cv-skull
+- MIDI info: https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
+- Arduino MIDI to CV: https://www.instructables.com/Another-MIDI-to-CV-Box-/
